@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using IntershipMessengerServer;
 
+
 namespace IntershipMessengerClient
 {
     public partial class MessageForm : Form
