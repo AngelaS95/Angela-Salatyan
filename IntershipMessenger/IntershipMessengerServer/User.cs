@@ -14,6 +14,6 @@ namespace IntershipMessengerServer
         int port { get; set; }
         IPAddress ID { get; set; }
 
-        void Send(Message myMessage) { }
+        void Send(Messages myMessage) { }
     }
 }
