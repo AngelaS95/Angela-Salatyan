@@ -1,0 +1,6 @@
+Naming issues. Try to name class fields with "_" symbol at the beging and give more descriptive names to vairables (like local field "a" should be something like "_currentExpression")
+
+Alwayse try to separate independant modules in separate functions or classes. In this project you can incapsulate converting string to number function in separate function. BTW you can use Convert class.
+Nice flag :)
+
+TextBox should be set to readonly or added character filtering logic should be added. Otherwize i can type any character

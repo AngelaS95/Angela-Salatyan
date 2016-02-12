@@ -1,0 +1,5 @@
+Naming issues: try to name functions with capital letters. "IdentifyOperators" instead of "identifyOperators"
+Sometimes infinite recursion in identifyOperators function, so app crash with StackOverflowException
+TextBox should be not editable, or should filter input. Typing character symbols leads to crash
+Nice usage of same event handler for multiple buttons
+Nice usage of incapsulating logic to separate functions

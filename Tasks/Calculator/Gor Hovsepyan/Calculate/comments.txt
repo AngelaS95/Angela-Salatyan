@@ -1,0 +1,12 @@
+Please send all source :)
+
+Bug in calcultor: not working on multiplication. wrong Sign
+
+Accurate design is good point
+
+Filtering non digit chars is good point, but I don`t get point of filtering digits
+Try to name buttons correctly. "MyButton" is hard to understand what should do.
+Try to format your code. Retyping closing brackets will auto format it.
+Using same event handler for multiple buttons is good point
+
+Crashes, if non-alphabet symbols typed

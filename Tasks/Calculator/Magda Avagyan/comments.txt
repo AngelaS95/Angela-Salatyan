@@ -1,0 +1,4 @@
+There is bug. After the first calculation, i can type only one symbol
+Name class fields with "_" at begging
+Nice usage of same event handler for multiple buttons
+Nice keyboard handling on form level.

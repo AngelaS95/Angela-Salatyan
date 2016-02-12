@@ -1,0 +1,3 @@
+Mostly nameing issues
+Allowing typing any symbols in textbox leads to crash
+

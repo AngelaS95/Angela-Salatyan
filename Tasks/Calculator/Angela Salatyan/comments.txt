@@ -1,0 +1,10 @@
+Mostly nameing issues
+Wrong property and fields usage
+
+Allowing typing any symbols in textbox leads to crush
+crashing on empty textbox if operation button is pressed
+
+Good point is incapsulating logic in separate class
+"devide" word is misspelled
+
+wrong enum usage: No need to convert to int
